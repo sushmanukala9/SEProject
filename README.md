@@ -21,7 +21,17 @@ Alternative:
 in the IDE make a build of the MAven dependencies included in the pom.xml file and then right-click on the root directory and click on Run Tests
 The results will show in the console. There are no deviations and all 19 unit test cases are passing.
 
+ACCEPTANCE TESTS:
+-----------------
 
+TC-01 Host Registration
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| **Step No.** | **Test Step Description**                                                             | **Expected Result**                                                           |
+|--------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1            | Click on the URL (http://eventeasebucket.s3-website.us-east-2.amazonaws.com/register) | Registration page must be opened                                              |
+| 2            | Enter Username, Email, and Password                                                   |                                                                               |
+| 3            | Click on Save                                                                         | User should be registered successfully and Navigated to Event categories page |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
