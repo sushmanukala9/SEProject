@@ -41,12 +41,12 @@ TC-02 Host filling Predefined Event Form and Invitee submitting responses
 | Prerequisites                                | Host should be logged-in to the EventEase web application             |                                                                                                                                       |
 | 1                                            | Click on any of the pre-defined event categories(Ex: Birthday)        | A host form should be opened with prefilled Event Type field as “Birthday”.                                                           |
 | 2                                            | "Fill all the below details:                                          |
-| •                                            |Event Title                                                           |
-| •                                            | Event Venue                                                           |
-| •                                            | Event Date                                                            |
-| •                                            | Custom message                                                        |
-| •                                            | Custom question                                                       |
-| •                                            | Event Details"                                                        |                                                                                                                                       |
+                                                  • Event Title                                                        
+                                                  • Event Venue                                                           
+                                                  • Event Date                                                            
+                                                  • Custom message                                                        
+                                                  • Custom question                                                       
+                                                  • Event Details"                                                                                                                                                                                               |
 | 3                                            | Select a theme from predefined ones OR Upload a new image as theme    | Theme should be highlighted when clicked on it                                                                                        |
 | 4                                            | Select from predefined questions list                                 | Selected questions must be checked                                                                                                    |
 | 5                                            | Click on create invitation button                                     | Host should be able to see email form with prefilled email subject and body with invitation form link.                                |
